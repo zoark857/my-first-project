@@ -17,10 +17,10 @@ My first Python calculator project.
 ## How to Run
 
 1. Install Python.
-2. Download calculator.py.
+2. Download my first calculator.py.
 3. Run:
 
-python calculator.py
+python my first calculator.py
 
 ## Example
 
